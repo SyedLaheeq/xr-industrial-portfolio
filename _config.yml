@@ -1,0 +1,17 @@
+title: "Individual Project Portfolio 2"
+description: "Industrial XR Project – Individual Contribution Portfolio"
+author: "Laheeq Syed"
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
+  - contributions.md
+  - reflection.md
+  - peer-feedback.md
+  - ethics.md
