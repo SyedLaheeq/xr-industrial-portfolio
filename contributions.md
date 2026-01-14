@@ -255,7 +255,7 @@
 
 **Figures:**
 
-![Final integrated system architecture overview](assets/images/Gemini_Generated_Image_lzm6xrlzm6xrlzm6.png)
+![Final integrated system architecture overview](assets/images/Gemini.png)
 *Final integrated system architecture overview*
 
 ![Unity XR view during live demo](assets/images/live%20demo.png)
