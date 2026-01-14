@@ -164,7 +164,7 @@
 ---
 
 **Raw JSON Data Stream**
-```json {
+```json 
 {
   "AirFlow": {
     "name": "AirFlow",
@@ -209,7 +209,7 @@
     "machine": "401"
   }
 }
-}
+```
 **Final Json for Live Data.**
 
 ![Unity inspector view showing live data bindings](images/liveDataBindings.png)
