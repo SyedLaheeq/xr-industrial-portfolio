@@ -209,7 +209,6 @@
     "machine": "401"
   }
 }
-```json
 **Final Json for Live Data.**
 
 ![Unity inspector view showing live data bindings](images/liveDataBindings.png)
