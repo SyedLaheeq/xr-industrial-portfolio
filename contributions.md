@@ -164,7 +164,7 @@
 ---
 
 **Raw JSON Data Stream**
-```json
+```json {
 {
   "AirFlow": {
     "name": "AirFlow",
@@ -208,6 +208,7 @@
     "value": 0,
     "machine": "401"
   }
+}
 }
 **Final Json for Live Data.**
 
