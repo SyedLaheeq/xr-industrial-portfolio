@@ -20,10 +20,10 @@
 * Consulted SMC_HMI_API.pdf for OPC UA type definitions.
 * Discovered that repeatedly testing on real PLC hardware was inefficient, so shifted some testing to simulation with extracted variable lists.
 
-![Plc variables through Prosys](images/WhatsApp%20Image%202025-11-09%20at%2022.08.57_1e8f6908.jpg)
+![Plc variables through Prosys](assets/images/WhatsApp%20Image%202025-11-09%20at%2022.08.57_1e8f6908.jpg)
 *Plc variables through Prosys*
 
-![First flow/plan discussed](images/WhatsApp%20Image%202025-11-02%20at%2016.50.29_07d0ba95.jpg)
+![First flow/plan discussed](assets/images/WhatsApp%20Image%202025-11-02%20at%2016.50.29_07d0ba95.jpg)
 *First flow/plan discussed*
 
 **Week 2: Tuesday, November 4, 2025 -- Saturday, November 8, 2025**
@@ -45,10 +45,10 @@
 * Used debug nodes at every stage to trace message shapes.
 * Stored system architecture and image placeholders for reference.
 
-![intial node-red work](images/Intial%20prposed%20node-red%20work.png)
+![intial node-red work](assets/images/Intial%20prposed%20node-red%20work.png)
 *intial node-red work*
 
-![Prototype Node-RED flow for exploratory SMC inventory variable acquisition.](images/Screenshot%20PPF.png)
+![Prototype Node-RED flow for exploratory SMC inventory variable acquisition.](assets/images/Screenshot%20PPF.png)
 *Prototype Node-RED flow for exploratory SMC inventory variable acquisition.*
 
 ---
@@ -71,13 +71,13 @@
 * Adjusted credentialSecret in Node-RED settings for persistent tokens.
 * Learned to map and filter InfluxDB fields to ensure queries use numeric data, avoiding unsupported string aggregates.
 
-![after DB installation](images/WhatsApp%20Image%202025-11-09%20at%2022.45.52_5e318bb4.jpg)
+![after DB installation](assets/images/WhatsApp%20Image%202025-11-09%20at%2022.45.52_5e318bb4.jpg)
 *after DB installation*
 
-![Data visualized in node red](images/Data%20Visualization%20with%20the%20format.png)
+![Data visualized in node red](assets/images/Data%20Visualization%20with%20the%20format.png)
 *Data visualized in node red*
 
-![Testing DB to check if data flows](images/Testing.png)
+![Testing DB to check if data flows](assets/images/Testing.png)
 *Testing DB to check if data flows*
 
 ---
@@ -104,15 +104,15 @@
 * Iteratively improved function node filtering and output, tested full API responses in both browser and Unity.
 * Created a detailed project log with image placeholders for every stage: logic extension, API setup, server configuration, Data Explorer queries, Unity integration.
 
-![query used to send data to unity](images/Query%20to%20fetch%20Data%20to%20publish.png)
+![query used to send data to unity](assets/images/Query%20to%20fetch%20Data%20to%20publish.png)
 *query used to send data to unity*
 
-![Data Visualized on XR machine](images/Data%20visualized%20on%20XR%20device.jpg)
+![Data Visualized on XR machine](assets/images/Data%20visualized%20on%20XR%20device.jpg)
 *Data Visualized on XR machine*
 
 ---
 
-![Data which was sent to machine](images/Screenshot%202025-11-21%20191236.png)
+![Data which was sent to machine](assets/images/Screenshot%202025-11-21%20191236.png)
 *Data which was sent to machine*
 
 ---
@@ -158,7 +158,7 @@
 
 **Figures:**
 
-![Extended Node-RED flow showing additional machine variables](images/Screenshot%202025-12-19%20110920.png)
+![Extended Node-RED flow showing additional machine variables](assets/images/Screenshot%202025-12-19%20110920.png)
 *Extended Node-RED flow showing additional machine variables*
 
 ---
@@ -212,7 +212,7 @@
 ```
 **Final Json for Live Data.**
 
-![Unity inspector view showing live data bindings](images/liveDataBindings.png)
+![Unity inspector view showing live data bindings](assets/images/liveDataBindings.png)
 *Unity inspector view showing live data bindings*
 
 ---
@@ -255,13 +255,13 @@
 
 **Figures:**
 
-![Final integrated system architecture overview](images/Gemini_Generated_Image_lzm6xrlzm6xrlzm6.png)
+![Final integrated system architecture overview](assets/images/Gemini_Generated_Image_lzm6xrlzm6xrlzm6.png)
 *Final integrated system architecture overview*
 
-![Unity XR view during live demo](images/live%20demo.png)
+![Unity XR view during live demo](assets/images/live%20demo.png)
 *Unity XR view during live demo*
 
-![Screenshot from Live data I personally wored on before integration](images/prelim.jpeg)
+![Screenshot from Live data I personally wored on before integration](assets/images/prelim.jpeg)
 *Screenshot from Live data I personally wored on before integration*
 
 ---
