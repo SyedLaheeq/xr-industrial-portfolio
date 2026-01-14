@@ -7,7 +7,7 @@ title: Home
 ## Industrial Project with XR
 
 **Author:** Laheeq Syed  
-**Date:** January 2026  
+**Date:** January 16 2026  
 
 > **Note:** All tasks, achievements, logs, and examples provided in this portfolio represent my individual work and personal contributions only.
 
