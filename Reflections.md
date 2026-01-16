@@ -1,3 +1,8 @@
+---
+layout: page
+title: Reflection
+---
+
 # Self-Assessment and Reflection
 
 This section reflects on my personal learning journey, technical growth, and professional development throughout the XR industrial project. Rather than only describing completed tasks, this reflection focuses on how my skills, mindset, and approach to teamwork evolved over the duration of the project.
