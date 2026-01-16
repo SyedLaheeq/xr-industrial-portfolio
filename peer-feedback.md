@@ -1,3 +1,8 @@
+---
+layout: page
+title: Peer Feedback
+---
+
 # Peer Review and Group Feedback
 
 Before finalizing this Individual Project Portfolio, I circulated a draft among my project group members and received feedback regarding both content and clarity.
