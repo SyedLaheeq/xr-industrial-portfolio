@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ethics
+---
+
 # Reflection on Benefits, Limitations, System Requirements, and Ethics
 
 This section reflects on the broader implications of the developed XR system, considering its practical benefits, limitations, technical requirements, and ethical impact.
